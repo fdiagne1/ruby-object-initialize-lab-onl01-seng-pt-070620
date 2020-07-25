@@ -19,6 +19,6 @@ class Dog
   def breed
     @breed
     if none given 
-      puts "mutt"
+      puts "Mutt"
   end 
 end
