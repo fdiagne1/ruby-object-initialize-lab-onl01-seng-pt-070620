@@ -20,5 +20,6 @@ class Dog
     @breed
     if none given 
       puts "Mutt"
+    end
   end 
 end
