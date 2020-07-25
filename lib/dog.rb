@@ -21,6 +21,5 @@ class Dog
   
   def breed
     @breed 
-    if 
   end 
 end
